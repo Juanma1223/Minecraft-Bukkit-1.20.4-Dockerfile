@@ -1,6 +1,6 @@
 # Minecraft-Bukkit-1.20.4-Dockerfile
 
-Simple dockerfile to start your bukkit server easyly
+Simple dockerfile to start your bukkit server easily
 
 # Instructions:
 
