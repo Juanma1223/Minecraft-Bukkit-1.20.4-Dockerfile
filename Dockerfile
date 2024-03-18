@@ -4,4 +4,4 @@ WORKDIR /server
 RUN wget https://download.getbukkit.org/craftbukkit/craftbukkit-1.20.4.jar
 RUN echo "eula=true" >> eula.txt
 
-ENTRYPOINT [ "java","-jar", "craftbukkit-1.20.4.jar" ]
+ENTRYPOINT [ "java","-jar", "/server/craftbukkit-1.20.4.jar" ]
